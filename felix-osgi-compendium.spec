@@ -7,7 +7,7 @@ Release: 16.3
 Summary: Felix OSGi R4 Compendium Bundle
 
 License: ASL 2.0
-URL:     http://felix.apache.org
+URL:     https://felix.apache.org
 Source0: http://www.apache.org/dist/felix/%{bundle}-%{version}-project.tar.gz
 
 Patch0:         0001-Fix-servlet-api-dependency.patch
